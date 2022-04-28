@@ -1,2 +1,2 @@
-# multiprocess_on_python
-Multiprocess samples on Python
+# multiprocess_in_python
+Multiprocess samples i.n Python
